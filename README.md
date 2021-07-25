@@ -19,4 +19,4 @@ The main process of getting the local ridges, image enhancemet, minutiae positio
 
 ## Rights
 
-I do not own and have not written the code. The code belongs to Raffaele Cappelli and is available via the resouces mentioned above. I've just made some changes to it.
+I do not own and have not written most of the code. The code belongs to Raffaele Cappelli and is available via the resouces mentioned above. I've just made some changes to it and added a little bit of functionality for my own suited use.
